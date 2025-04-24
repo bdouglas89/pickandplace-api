@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "deck_id": 2,
+    "rack_id": 2,
+    "description": "Pick and Place Routine",
+    "file_name": "pickandplace_01.json",
+    "total_movements": 48,
+    "total_lines": 156,
+    "filepath": "core/modules/pick_and_place/routines/",
+    "timestamp": "2023-12-15T14:30:25",
+    "steps": [
+        {"pick": "1A1", "place": "2C23"},
+        {"pick": "1A2", "place": "2C24"},
+        {"pick": "1A3", "place": "2C25"},
+        {"pick": "1A4", "place": "2C26"},
+        {"pick": "1A5", "place": "2C27"},
+        {"pick": "1A6", "place": "2C28"},
+        {"pick": "1A7", "place": "2C29"},
+        {"pick": "1A8", "place": "2C30"},
+        {"pick": "1A9", "place": "2C31"},
+        {"pick": "2A10", "place": "2C32"}
+    ]
+}

@@ -1,0 +1,162 @@
+[
+    {
+        "deck_id": 1,
+        "name": "Main Storage Deck",
+        "description": "Main storage deck for standard inventory",
+        "size_x": 4,
+        "size_y": 5,
+        "total_positions": 20,
+        "allowed_rack_types": [
+            "standard",
+            "nagine"
+        ],
+        "coordinates": [
+            {
+                "stand_number": 1,
+                "stand_location_X": 1.0,
+                "stand_location_Y": 1.0
+            },
+            {
+                "stand_number": 2,
+                "stand_location_X": 1.0,
+                "stand_location_Y": 2.0
+            },
+            {
+                "stand_number": 3,
+                "stand_location_X": 1.0,
+                "stand_location_Y": 3.0
+            },
+            {
+                "stand_number": 4,
+                "stand_location_X": 1.0,
+                "stand_location_Y": 4.0
+            },
+            {
+                "stand_number": 5,
+                "stand_location_X": 1.0,
+                "stand_location_Y": 5.0
+            },
+            {
+                "stand_number": 6,
+                "stand_location_X": 2.0,
+                "stand_location_Y": 1.0
+            },
+            {
+                "stand_number": 7,
+                "stand_location_X": 2.0,
+                "stand_location_Y": 2.0
+            },
+            {
+                "stand_number": 8,
+                "stand_location_X": 2.0,
+                "stand_location_Y": 3.0
+            },
+            {
+                "stand_number": 9,
+                "stand_location_X": 2.0,
+                "stand_location_Y": 4.0
+            },
+            {
+                "stand_number": 10,
+                "stand_location_X": 2.0,
+                "stand_location_Y": 5.0
+            },
+            {
+                "stand_number": 11,
+                "stand_location_X": 3.0,
+                "stand_location_Y": 1.0
+            },
+            {
+                "stand_number": 12,
+                "stand_location_X": 3.0,
+                "stand_location_Y": 2.0
+            },
+            {
+                "stand_number": 13,
+                "stand_location_X": 3.0,
+                "stand_location_Y": 3.0
+            },
+            {
+                "stand_number": 14,
+                "stand_location_X": 3.0,
+                "stand_location_Y": 4.0
+            },
+            {
+                "stand_number": 15,
+                "stand_location_X": 3.0,
+                "stand_location_Y": 5.0
+            },
+            {
+                "stand_number": 16,
+                "stand_location_X": 4.0,
+                "stand_location_Y": 1.0
+            },
+            {
+                "stand_number": 17,
+                "stand_location_X": 4.0,
+                "stand_location_Y": 2.0
+            },
+            {
+                "stand_number": 18,
+                "stand_location_X": 4.0,
+                "stand_location_Y": 3.0
+            },
+            {
+                "stand_number": 19,
+                "stand_location_X": 4.0,
+                "stand_location_Y": 4.0
+            },
+            {
+                "stand_number": 20,
+                "stand_location_X": 4.0,
+                "stand_location_Y": 5.0
+            }
+        ],
+        "image_path": "/images/deck001.png"
+    },
+    {
+        "deck_id": 2,
+        "name": "Cooling Module Deck",
+        "description": "Deck for cooling modules",
+        "size_x": 2,
+        "size_y": 3,
+        "total_positions": 6,
+        "allowed_rack_types": [
+            "pallet",
+            "shelf"
+        ],
+        "coordinates": [
+            {
+                "stand_number": 1,
+                "stand_location_X": 2.0,
+                "stand_location_Y": 2.0
+            },
+            {
+                "stand_number": 2,
+                "stand_location_X": 2.0,
+                "stand_location_Y": 3.0
+            },
+            {
+                "stand_number": 3,
+                "stand_location_X": 3.0,
+                "stand_location_Y": 2.0
+            },
+            {
+                "stand_number": 4,
+                "stand_location_X": 3.0,
+                "stand_location_Y": 3.0
+            },
+            {
+                "stand_number": 5,
+                "stand_location_X": 4.0,
+                "stand_location_Y": 2.0
+            },
+            {
+                "stand_number": 6,
+                "stand_location_X": 4.0,
+                "stand_location_Y": 3.0
+            }
+        ],
+        "image_path": "/images/deck002.png"
+    }
+]
